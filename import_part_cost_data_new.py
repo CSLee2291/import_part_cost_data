@@ -27,7 +27,7 @@ db_config = {
     'host': 'localhost',      # Update with your MySQL host
     'database': 'cis_schema', # Your database name
     'user': 'root',           # Update with your MySQL username
-    'password': 'yuioHJK&345'  # Update with your MySQL password
+    'password': 'yourpassword'  # Update with your MySQL password
 }
 
 # Function to extract date from file name
